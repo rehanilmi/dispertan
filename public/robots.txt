@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin
+
+Sitemap: https://GANTI-DOMAIN.padang.go.id/sitemap.xml
